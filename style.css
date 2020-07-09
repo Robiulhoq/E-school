@@ -1,0 +1,120 @@
+.sign-in-bg{
+    background-color: green;
+    
+    border-radius: 30px;
+}
+.navbar-nav , .sign-in-bg{
+    color: #ffff;
+}
+
+.pragraph-color{
+    color: red;
+}
+.font-controll{
+    font-weight: 700;
+}
+span{
+    color: green;
+}
+
+.illus-width img{
+    width: 100%;
+
+}
+.top-bg{
+    background-color: rgb(239, 255, 255);
+}
+.box-margin{
+    margin-top: 30px;
+}
+.box-bg{
+    background-color:rgb(239, 255, 255) ;
+    margin-right: 8px;
+}
+.box-bg img{
+    margin-bottom: 10px;
+}
+.box{
+    box-shadow: 10px 10px 40px lightgrey;
+    border-radius: 10px;
+}
+.book-hei-wid img{
+    height: 100px;
+}
+.book-hei-wid{
+    padding: 20px;
+}
+.heading-center{
+    text-align: center;
+    font-weight: 700;
+}
+
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 20px 20x 500px lightgrey;
+    padding: 10px;
+    margin-right: 10px;
+}
+.card img{
+    padding: 5px;
+}
+.card-footer{
+    background-color: white;
+    border-top:none;
+}
+.card{
+    box-shadow: 10px 10px 40px lightgrey;
+}
+.set-height{
+    height: 350px;
+   
+}
+.man-img img{
+    width: 100px;
+    height: 100px;
+}
+.contact-us-heading{
+    text-align: center;
+   
+}
+.color-layer{
+    height: 5px;
+    width: 400px;
+    background-color: yellow;
+    margin: 0 auto;
+}
+.contact-us-heading h5{
+    margin-top: 40px;
+    font-weight: 700;
+}
+.gmail{
+    height: 100px;
+    width: 450px;
+    background-color: rgb(163, 226, 226) ;
+    border-radius: 15px;
+    margin: 0 auto;
+    padding-top: 15px;
+    padding-left: 25px;
+    
+}
+footer{
+    background-color: rgb(14, 13, 13);
+    color: #ffff;
+   
+}
+footer a{
+    text-decoration: none;
+    color: #ffff;
+}
+.footer-margin{
+    margin-top: 50px;
+}
+.copyright-text p{
+    text-align: center;
+    
+}
+.copyright-text{
+    margin-top: 50px;
+}
